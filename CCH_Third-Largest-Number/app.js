@@ -1,4 +1,5 @@
 var array = [33, 23, 44, 55, 75, 100];
+
 var ThirdLargestNumber = (array) => {
   let Maximum = 0;
   let SecondLargest = 0;
